@@ -1,0 +1,1 @@
+"this is simple deployment pipeline for practice"
